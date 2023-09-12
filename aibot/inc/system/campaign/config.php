@@ -1,0 +1,18 @@
+<?php
+
+return [
+    'id' => 'campaign',
+    'name' => 'Campaign',
+    'author' => 'Stackcode',
+    'author_uri' => 'https://stackposts.com',
+    'version' => '1.0',
+    'desc' => 'Your Product leads',
+    'icon' => 'fa fa-podcast',
+    'color' => 'green',
+    'menu' => [
+        'tab' => 3,
+        'position' => 300,
+        'name' => 'Campaign'
+    ]
+	
+];
